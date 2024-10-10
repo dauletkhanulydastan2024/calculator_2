@@ -18,7 +18,7 @@ func main() {
 	// то вывести сообщение "Неизвестный оператор".
 	var result int
 	// ПИШЕМ КОД ТУТ
-	if 
+
 	fmt.Printf("%d %s %d = %d", a, operator, b, result)
 }
 
